@@ -1,0 +1,10 @@
+{
+  "name": "headline_highlighter",
+  "title": "headline_highlighter",
+  "id": "headline_highlighter@dickens-webdesign.de_v0.2",
+  "description": "Headline Highlighter - THe Extension to color H1 Tags",
+  "author": "Jan Ehlbeck",
+  "license": "MPL 2.0",
+  "version": "0.2",
+  "dependencies": ["vold-utils", "menuitems"]
+}
