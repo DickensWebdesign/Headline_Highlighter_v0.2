@@ -32,6 +32,8 @@ Was ist erfolgreich implementieren konnte, ging schnell(für das erste mal) und 
 
 + Menu Buttons added [~3 Stunden]
 
++ added: Loging der Tabs alle 1o sekunden [2 Stunden]
+
 
 
 
